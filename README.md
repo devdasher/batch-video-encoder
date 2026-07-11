@@ -86,6 +86,23 @@ Without HandBrakeCLI, this application cannot encode videos.
 
 ---
 
+## 📦 Download
+
+To download the latest version, **please visit the Releases page**:
+
+➡️ **https://github.com/devdasher/batch-video-encoder/releases**
+
+There you will find:
+
+- ✅ Latest Beta builds
+- ✅ Windows, Linux and macOS packages (when available)
+- ✅ Portable executables
+- ✅ Release notes and changelogs
+- ✅ SHA256 checksum files
+
+If you're looking for the newest version of Batch Video Encoder, always check the **Releases** page rather than the repository sidebar.
+
+---
 # Download HandBrakeCLI
 
 Download the latest official HandBrakeCLI from:
