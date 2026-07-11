@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# HandBrakeCLI binaries
+tools/HandBrakeCLI.exe
+tools/HandBrakeCLI
+
+# Optional: ignore any other executables
+tools/*.exe
