@@ -86,7 +86,7 @@ Without HandBrakeCLI, this application cannot encode videos.
 
 ---
 
-## 📦 Download
+## Download
 
 To download the latest version, **please visit the Releases page**:
 
@@ -101,6 +101,10 @@ There you will find:
 - ✅ SHA256 checksum files
 
 If you're looking for the newest version of Batch Video Encoder, always check the **Releases** page rather than the repository sidebar.
+
+Pre-built executables are available on the **Releases** page. All release binaries are automatically built by **GitHub Actions** directly from the source code in this repository, ensuring a consistent and reproducible build process. No third-party modifications are made to the released executables.
+
+Although Windows may display an **"Unknown Publisher"** warning because the application is not currently code-signed, the files are built automatically from the project's source code and published through this GitHub repository.
 
 ---
 # Download HandBrakeCLI
