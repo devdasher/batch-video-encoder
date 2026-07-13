@@ -12,7 +12,7 @@ jobs:
     runs-on: windows-latest
     env:
       APP_NAME: BatchVideoEncoder
-      PYTHON_VERSION: '3.13'
+      PYTHON_VERSION: '3.10'
       VERSION: ${{ github.ref_name }}
 
     steps:
@@ -95,7 +95,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       APP_NAME: BatchVideoEncoder
-      PYTHON_VERSION: '3.13'
+      PYTHON_VERSION: '3.10'
       VERSION: ${{ github.ref_name }}
 
     steps:
@@ -182,7 +182,7 @@ jobs:
     runs-on: macos-latest
     env:
       APP_NAME: BatchVideoEncoder
-      PYTHON_VERSION: '3.13'
+      PYTHON_VERSION: '3.10'
       VERSION: ${{ github.ref_name }}
 
     steps:
