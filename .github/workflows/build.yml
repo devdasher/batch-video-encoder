@@ -50,6 +50,7 @@ jobs:
           Copy-Item README.md dist\staging\
           Copy-Item LICENSE dist\staging\
           Copy-Item -Recurse tools dist\staging\
+          Copy-Item -Recurse logs dist\staging\
 
       - name: Rename executable and set outputs
         id: set_names
