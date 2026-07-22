@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![PySide6](https://img.shields.io/badge/GUI-PySide6-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-Linux-lightgrey.svg)
+![Platform](https://img.shields.io/badge/Platform-MacOS-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Beta-orange.svg)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/abeb481e-42ed-4f4d-b9f5-94d156fbac82" />
